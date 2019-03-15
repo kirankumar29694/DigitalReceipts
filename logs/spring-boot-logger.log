@@ -1,0 +1,15 @@
+2019-03-15 08:13:20,357 INFO org.springframework.boot.StartupInfoLogger [main] Starting DigitalreceiptsApplicationTests on kirans-MacBook-Air.local with PID 10878 (started by kirans in /Users/kirans/Documents/digitalrreceipts)
+2019-03-15 08:13:20,361 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-03-15 08:13:24,032 INFO org.springframework.boot.StartupInfoLogger [main] Started DigitalreceiptsApplicationTests in 24.37 seconds (JVM running for 26.585)
+2019-03-15 10:04:23,741 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on kirans-MacBook-Air.local with PID 11414 (/Users/kirans/Documents/digitalrreceipts/target/classes started by kirans in /Users/kirans/Documents/digitalrreceipts)
+2019-03-15 10:04:23,747 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-03-15 10:04:25,608 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8086 (http)
+2019-03-15 10:04:25,634 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8086"]
+2019-03-15 10:04:25,653 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2019-03-15 10:04:25,653 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-15 10:04:25,672 INFO org.apache.juli.logging.DirectJDKLog [main] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/kirans/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-03-15 10:04:25,849 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2019-03-15 10:04:25,851 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2042 ms
+2019-03-15 10:04:26,413 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8086"]
+2019-03-15 10:04:26,461 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8086 (http) with context path '/api'
+2019-03-15 10:04:26,467 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 23.882 seconds (JVM running for 25.661)
